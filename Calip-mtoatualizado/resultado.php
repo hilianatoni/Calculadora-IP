@@ -75,6 +75,7 @@
 			        echo "<b class='resultado'> Endereço: </b>" . $ip->endereco() . '<br>';
 			        echo "<b class='resultado'> Prefixo CIDR: </b>/" . $ip->cidr() . '<br>';
 			        echo "<b class='resultado'> Máscara de sub-rede: </b>" . $ip->mascara() . '<br>';
+				echo "<b>IP da Rede: </b>" . $ip->rede() . '/' . $ip->cidr() . '<br>';
 			        echo "<b class='resultado'> Endereço de Broadcast: </b>" . $ip->broadcast() . '<br>';
 			        echo "<b class='resultado'> Primeiro endereço de host: </b>" . $ip->primeiro_ip() . '<br>';
 			        echo "<b class='resultado'> Último endereço de host: </b>" . $ip->ultimo_ip() . '<br>';
