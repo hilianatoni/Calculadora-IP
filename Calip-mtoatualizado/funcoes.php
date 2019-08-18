@@ -140,10 +140,6 @@ class calc_ipv4
 
     public function binario(){
 
-        $pontos = array(",",".");   
-
-        $enderecos_separado = array();
-
         $enderecos_binario = array();
 
         $enderecos_separado = explode( '.', $this->endereco);
