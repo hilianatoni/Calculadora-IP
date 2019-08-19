@@ -1,0 +1,121 @@
+.menu{
+	height: 6%;
+	background-color: #FAFAFA;
+	border-bottom: 1px solid #E6E6E6;
+}
+
+#logo{
+	height: 90px;
+	width: 98px;
+	margin-left: 40%;
+	margin-top: 1%;
+	margin-bottom: 1%;	
+}
+
+#nome{
+	width: 20%;
+	float: right;
+	margin-right: 30%;
+	margin-top: 2.5%;
+	font-family: Copperplate;
+}
+
+.titulo{
+	margin-left: 30%; 
+	margin-top: 1%;
+	margin-bottom: 4%;
+	font-size: 45px;
+	font-family: verdana;
+}
+
+.inputs{
+	width: 40% !important;
+	margin-bottom: 2%;
+	margin-top: 1.5%;
+	margin-left: 30%;
+	font-family: verdana;
+}
+
+.labels{
+	margin-left: 30%;
+	font-family: verdana;
+}
+
+.botao{
+    width: 40%;
+    font-size: 18px;
+    color: white;
+    height: 45px;
+    margin-top: 1%;
+	margin-left: 30%;
+	border-radius: 6px;
+	background-color: #557A95;
+	border: 1px solid #557A95;
+	cursor: pointer;
+}
+
+.divider{
+	clear: both;
+}
+
+.coluna{
+	width: 1%;
+	margin-top: 6%;
+	height: 420px;
+	border: 2px solid #FAFAFA;
+	float: left;
+	margin-left: 6%;
+	background-color: #557A95;
+}
+
+.formulario{
+	width: 46%;
+	margin-top: 6%;
+	height: 100%;
+	float: left;
+}
+
+.informacao{
+	width: 50%;
+	margin-top: 3%;
+	margin-left: -8%;
+	float: left;
+	font-family: verdana;
+}
+
+.texto{
+	margin-top: 1%;
+	float: left;
+	margin-left: 39%;
+	font-family: verdana;
+	text-align: justify;
+}
+
+.caixa{
+	width: 30%;
+	margin-top: 5%;
+	float: left;
+	font-family: verdana;
+	border: 1px solid #848484;
+	margin-left: 6%;
+}
+
+.resultado{
+	margin-left: 5%;
+
+}
+footer{
+	background-color: #F2F2F2;
+	border-top: 1px solid #848484;
+	height: 90px;
+	margin-top: 9%;
+}
+
+.creditos{
+
+	border-top: 5%;
+	margin-top: 1%;
+	text-align: center;
+	font-family: courier;
+	font-size: 13px;
+}
